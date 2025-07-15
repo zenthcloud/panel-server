@@ -1,6 +1,6 @@
-# Zenth Panel Server
+# Zenth Cloud Panel Client
 
-**Zenth Panel Server** is the web-based administration and management interface for the Zenth Cloud ecosystem, developed by Sky Genesis Enterprise. It offers a comprehensive and user-friendly UI for managing users, services, network configurations, and monitoring across all Zenth components.
+**Zenth Cloud Panel Client** is the web-based administration and management interface for the Zenth Cloud ecosystem, developed by Sky Genesis Enterprise. It offers a comprehensive and user-friendly UI for managing users, services, network configurations, and monitoring across all Zenth components.
 
 ## 🖥️ Features
 
@@ -15,7 +15,7 @@
 
 ## 📦 Part of the Zenth Cloud Stack
 
-Zenth Panel Server acts as the centralized management console for:
+Zenth Cloud Panel acts as the centralized management console for:
 
 - `ldap-server` – User and access management
 - `api-server` – Backend API for all services
@@ -38,8 +38,8 @@ Full installation instructions, UI guides, and API references available in `/doc
 
 ## 🛡️ License
 
-Zenth Panel Server is licensed under the **GNU Affero General Public License v3 (AGPLv3)**. See `LICENSE` for details.
+Zenth Panel Server is licensed under the **GNU Affero General Public License v3 (AGPLv3)**. See `./LICENSE` for details.
 
 ---
 
-Contributions and feedback are welcome! Visit [github.com/zenthcloud](https://github.com/zenthcloud) to get involved.
+Contributions and feedback are welcome! Visit [Github Organisation](https://github.com/zenthcloud) to get involved.
