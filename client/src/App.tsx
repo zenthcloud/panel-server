@@ -1,3 +1,17 @@
+/**
+ * ==============================================================
+ * Project     : Zenth Cloud – Zenth Panel
+ * File        : App.tsx
+ * Version     : 1.0.0
+ * Description : Client Main Application
+ * Author      : Sky Genesis Enterprise
+ * Created on  : 2025-07-19
+ * License     : AGPLv3
+ * Forked from : N/A
+ * Modified by : Liam Dispa <liam.dispa@skygenesisenterprise.com> (2025-07-20)
+ * ==============================================================
+ */
+
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
