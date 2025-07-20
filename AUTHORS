@@ -1,0 +1,37 @@
+# Zenth Cloud Project – AUTHORS
+# Sky Genesis Enterprise
+# This file lists all individuals and organizations who have contributed
+# to the development of this project.
+
+=====================================================================
+Primary Organization:
+---------------------
+Sky Genesis Enterprise
+Company No: <BE-xxxxxxxxx>
+Website: https://skygenesisenterprise.com
+Contact: contact@skygenesisenterprise.com
+
+Project Owner:
+--------------
+Name    : [Liam Dispa]
+Role    : Founder & CEO
+Email   : [liam.dispa@skygenesisenterprise.com]
+GitHub  : [github.com/liamvnastoria]
+
+Core Team:
+----------
+
+External Contributors:
+-----------------------
+
+Forked Project Credits:
+------------------------
+- PowerDNS Authors – https://github.com/PowerDNS/pdns
+- Mailu Contributors – https://github.com/Mailu/Mailu
+- PostgreSQL Global Development Group – https://www.postgresql.org/
+- Pritunl Team – https://github.com/pritunl/pritunl
+- Asterisk / Digium – https://github.com/asterisk/asterisk
+
+=====================================================================
+If you contributed to this project but are not listed here, please
+open a pull request or contact us at: team@zenthcloud.com
