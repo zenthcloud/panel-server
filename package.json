@@ -1,22 +1,22 @@
 {
+  "author": "Sky Genesis Enterprise",
+  "license": "AGPL-3.0-only",
   "name": "panel-server",
   "version": "1.0.0",
-  "description": "**Zenth Panel Server** is the web-based administration and management interface for the Zenth Cloud ecosystem, developed by Sky Genesis Enterprise. It offers a comprehensive and user-friendly UI for managing users, services, network configurations, and monitoring across all Zenth components.",
-  "main": "index.js",
+  "description": "Zenth Panel Server is the web-based administration and management interface for the Zenth Cloud ecosystem, developed by Sky Genesis Enterprise. It offers a comprehensive and user-friendly UI for managing users, services, network configurations, and monitoring across all Zenth components.",
   "directories": {
     "doc": "docs",
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pr": "node scripts/pr.mjs",
+    "pgp-keygen": "node scripts/pgp-key.cjs"
   },
+
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zenthcloud/panel-server.git"
+    "type": "git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
   "bugs": {
     "url": "https://github.com/zenthcloud/panel-server/issues"
   },
